@@ -1,0 +1,18 @@
+# Компиляция C++
+*.exe
+*.out
+*.o
+*.obj
+
+# Папки сборки
+build/
+bin/
+
+# IDE
+.vscode/
+.idea/
+
+# Временные файлы
+*.log
+*.tmp
+*.swp
