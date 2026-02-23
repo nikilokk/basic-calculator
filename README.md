@@ -1,8 +1,8 @@
 # Basic calculator
 
-**Creation Time**: 30 min
+**Creation Time**: 1h
 
-**Last updated**: 22.02.2026
+**Last updated**: 23.02.2026
 
 Comments:
 It's my first project to be ever published on GitHub.
@@ -16,5 +16,6 @@ Description:
 - checks for division by 0
 - uses switch case
 - on the end prints a result of operations
+
 
 
